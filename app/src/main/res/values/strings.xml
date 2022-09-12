@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniChallengeChapter3_5</string>
+    <string name="item_name">Nama Item</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="buy">Checkout</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+</resources>
